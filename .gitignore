@@ -84,7 +84,7 @@
 !/media/images/mautic_logo*
 !/media/images/.htaccess
 
-/plugins/*
+# /plugins/*
 !/plugins/GrapesJsBuilderBundle
 !/plugins/MauticCitrixBundle
 !/plugins/MauticClearbitBundle
